@@ -1,8 +1,11 @@
-__pychache__
+/__pychache__
 Dockerfile
 *.idea
-cliet_en_azur.py
-export
-model
-output-amazon-test
-
+client_en_azur.py
+client_en.py
+client_fr.py
+main_predict.py
+/export
+/model
+/output-amazon-test
+/data
