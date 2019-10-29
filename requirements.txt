@@ -1,0 +1,8 @@
+Flask
+gunicorn
+tensorflow==1.13.1
+tensorflow-hub
+numpy
+pandas
+sklearn
+bert-tensorflow
