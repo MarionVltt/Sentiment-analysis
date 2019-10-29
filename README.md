@@ -7,7 +7,8 @@ and one for french, along with 2 files for preprocessing (preprocessing_en and
 preprocessing_fr), and to files to train and predict (prediction_en and prediction_fr)
 in one of the two language. 
 
-It has been implemented and tested using python 3.7 and tensorflow 1.13. 
+It has been implemented and tested using python 3.7 and tensorflow 1.13.
+ 
 For more explanation on BERT and how to use your model on a server, see https://medium.com/southpigalle/how-to-perform-better-sentiment-analysis-with-bert-ba127081eda.
 
 ## Installation
