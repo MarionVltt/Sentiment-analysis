@@ -1,1 +1,11 @@
-{"MAX_SEQ_LENGTH": 128, "BATCH_SIZE": 10, "LEARNING_RATE": 2e-05, "NUM_TRAIN_EPOCHS": 3.0, "WARMUP_PROPORTION": 0.1, "SAVE_CHECKPOINTS_STEPS": 500, "SAVE_SUMMARY_STEPS": 100, "BERT_MODEL_HUB": "https://tfhub.dev/google/bert_uncased_L-12_H-768_A-12/1", "OUTPUT_DIR": "output-amazon-test", "DO_DELETE": true}
+{"MAX_SEQ_LENGTH": 128,
+ "TEST_SIZE": 0.2,
+ "BATCH_SIZE": 10,
+ "LEARNING_RATE": 2e-05,
+ "NUM_TRAIN_EPOCHS": 3.0,
+ "WARMUP_PROPORTION": 0.1,
+ "SAVE_CHECKPOINTS_STEPS": 500,
+ "SAVE_SUMMARY_STEPS": 100,
+ "BERT_MODEL_HUB": "https://tfhub.dev/google/bert_uncased_L-12_H-768_A-12/1",
+ "OUTPUT_DIR": "output-amazon-test",
+ "DO_DELETE": true}
