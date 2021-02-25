@@ -1,6 +1,6 @@
 Flask
 gunicorn
-tensorflow==1.13.1
+tensorflow==2.4.0
 tensorflow-hub
 numpy
 pandas
